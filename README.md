@@ -1,0 +1,3 @@
+``
+The FormValidation project is a conceptual project built using HTML, Bootstrap, and raw JavaScript to create a user-friendly registration form with client-side validation. JavaScript is used to handle form submissions and perform real-time validation checks on user inputs such as username, email, phone number, and password. The application utilizes regular expressions for validating formats and patterns, and provides immediate feedback to users with error or success messages for each input field. This project demonstrates effective use of JavaScript for interactive form validation and enhances user experience by preventing incorrect submissions. Bootstrap is used for responsive design and styling.
+``
